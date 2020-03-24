@@ -1,6 +1,6 @@
 # Colors
 
-#### Git, HTML, Bootstrap, md, CSS, js, jQuery Exercise for Epicodus, 03.23.2020
+#### Git, HTML, md, CSS, js, jQuery Exercise for Epicodus, 03.23.2020
 
 #### By Nathan W-H
 
@@ -13,6 +13,10 @@ background color changing buttons
 Clone/download repository, Open HTML to view the webpage
 To make changes - Initialize your own repo on git
 
+## gh-pages
+
+WiseFool92.github.com/colors
+
 ## Known Bugs
 
 None known as of 03/23/2020
@@ -24,11 +28,8 @@ Email: watkins92@gmail.com
 ## Technologies Used
 
 HTMl
-CSS
-Bootstrap
 md
 js
-jQuery
 
 ### License
 
