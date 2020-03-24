@@ -24,3 +24,16 @@ $(document).ready(function() {
     $("body").addClass("dark-background");
   });
 });
+
+
+
+$(document).ready(function() {
+  $("text#light").click(function() {
+    $("body").removeClass();
+    $("body").addClass("light-background");
+  });
+  $("text#dark").click(function() {
+    $("body").removeClass();
+    $("body").addClass("dark-background");
+  });
+});

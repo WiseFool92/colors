@@ -11,9 +11,12 @@
 }
 
 .light-background {
-  background-color: lightgray
+  background-color: lightgray;
+  color: black;
 }
 
 .dark-background {
-  background-color: darkslategray;
+  background-color: black;
+  color: white;
 }
+
