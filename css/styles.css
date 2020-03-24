@@ -9,3 +9,11 @@
 .red-background {
   background-color: red;
 }
+
+.light-background {
+  background-color: lightgray
+}
+
+.dark-background {
+  background-color: darkslategray;
+}
