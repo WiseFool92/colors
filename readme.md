@@ -1,6 +1,6 @@
 # Colors
 
-#### Git, HTML, md, CSS, js, jQuery Exercise for Epicodus, 03.23.2020
+#### Git, HTML, md, CSS, js Exercise for Epicodus, 03.23.2020
 
 #### By Nathan W-H
 
@@ -30,6 +30,7 @@ Email: watkins92@gmail.com
 HTMl
 md
 js
+css
 
 ### License
 
